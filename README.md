@@ -4,7 +4,7 @@ A renderer for the **Nebulabrot**: instead of asking whether a Mandelbrot orbit 
 
 The render is bit-reproducible: the same commit, the same flags and the pinned Nix inputs produce identical PNG bytes on any machine and for any value of `--jobs`.
 
-[![CI](https://github.com/dniku/vibe-nebulabrot/actions/workflows/ci.yml/badge.svg)](https://github.com/dniku/vibe-nebulabrot/actions/workflows/ci.yml)
+[![CI](https://github.com/thaumapolis/nebulabrot/actions/workflows/ci.yml/badge.svg)](https://github.com/thaumapolis/nebulabrot/actions/workflows/ci.yml)
 
 ![The artifact: Mandelbrot orbits of the whole set, coloured by the direction the light reaching each pixel came from. Emerald cloud and rays at the left, the set as a dark silhouette crossed by dust lanes at the right.](docs/images/artifact.png)
 
